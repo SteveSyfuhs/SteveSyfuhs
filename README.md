@@ -1,16 +1,13 @@
-### Hi there 👋
+# Steve Syfuhs
 
-<!--
-**SteveSyfuhs/SteveSyfuhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dev on the Azure Active Directory team at Microsoft building authentication services and stuff. I've most recently been focusing on filling in platform authentication gaps for hybrid environments.
 
-Here are some ideas to get you started:
+Before that I spent a decade mostly doing the same thing but for other teams or companies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you're interested in that sort of history there's LinkedIn: https://www.linkedin.com/in/syfuhs/
+
+I have some things written down at https://syfuhs.net/.
+
+Otherwise there's daily ramblings on Twitter: https://twitter.com/stevesyfuhs
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=stevesyfuhs)
