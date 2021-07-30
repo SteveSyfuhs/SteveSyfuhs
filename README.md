@@ -1,8 +1,6 @@
 # Steve Syfuhs
 
-I'm a dev on the Azure Active Directory team at Microsoft building authentication services and stuff. I've most recently been focusing on filling in platform authentication gaps for hybrid environments.
-
-Before that I spent a decade mostly doing the same thing but for other teams or companies.
+I'm a dev on the Cryptography, Identity, and Authentication team at Microsoft building authentication services and stuff for Windows and friends. I've most recently been working on credential protection.
 
 If you're interested in that sort of history there's LinkedIn: https://www.linkedin.com/in/syfuhs/
 
